@@ -8,3 +8,7 @@ h1, h3, p {
 	padding-bottom: 10px;
 	color: #3d3e3f;
 }
+
+p {
+	font-size: 14px;
+}
