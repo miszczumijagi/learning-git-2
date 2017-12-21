@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"sources":["../sass/style.css"],"names":[],"mappings":"AAAA;EACC,0BAAyB;EACzB,eAAc;EACd,mBAAkB;CAClB;;AAED;EACC,qBAAoB;EACpB,eAAc;CACd;;AAED;EAEC,gBAAe;CAEf","file":"style.prefixed.css"}
+=======
+{"version":3,"sources":["../sass/style.scss"],"names":[],"mappings":"AAAA;EACC,0BAAyB;EACzB,mBAAkB;CAClB;;AAED;EACC,eAAc;CACd","file":"style.prefixed.css"}
+>>>>>>> task-6
